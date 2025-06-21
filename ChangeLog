@@ -6,6 +6,9 @@ Unattributed items are by Paul Warren and Chris Lightfoot.
 
 1.0
 
+* Compilation fix
+    Til Kaiser <mail@tk154.de>
+
 * Choose first running interface, rather than first "up" interface (Redhat #1403025)
     Robert Scheck <robert@fedoraproject.org>
 
