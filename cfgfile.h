@@ -13,7 +13,7 @@ typedef struct {
     int value;
 } config_enumeration_type;
 
-int read_config();
+int read_config(char *file, int whinge_on_error);
 
 char *config_get_string(const char *directive);
 int config_get_bool(const char *directive);
